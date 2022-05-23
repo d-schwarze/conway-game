@@ -1,0 +1,24 @@
+package de.conway.pattern;
+
+public enum Patterns {
+	//STATIC
+	START, 
+	BLOCK,
+	BEEHIVE,
+	LOAF,
+	BOAT,
+	TUB,
+	//DYNAMIC
+	BLINKER,
+	TOAD,
+	BEACON,
+	PULSAR,
+	PENTADECATHLON,
+	GLIDER,
+	SLIDER_1,
+	SLIDER_2,
+	SLIDER_3,
+	R_PENTOMINO,
+	DIEHARD,
+	ACORN
+}

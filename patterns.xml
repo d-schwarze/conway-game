@@ -1,0 +1,4663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_131" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="de.conway.pattern.Pattern" id="Pattern0">
+    <void property="name">
+     <string>test</string>
+    </void>
+    <void property="position">
+     <object class="de.conway.Vector2D"/>
+    </void>
+    <void property="state">
+     <object class="de.conway.pattern.State" id="State0">
+      <void property="cells">
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+           <void property="y">
+            <int>2</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>1</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>2</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>2</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>2</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>2</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>2</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>2</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>5</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+           <void property="y">
+            <int>5</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+           <void property="y">
+            <int>5</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+           <void property="y">
+            <int>5</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+           <void property="y">
+            <int>5</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+           <void property="y">
+            <int>5</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+           <void property="y">
+            <int>5</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>4</int>
+           </void>
+           <void property="y">
+            <int>5</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>3</int>
+           </void>
+           <void property="y">
+            <int>5</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>3</int>
+           </void>
+           <void property="y">
+            <int>5</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>3</int>
+           </void>
+           <void property="y">
+            <int>5</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>3</int>
+           </void>
+           <void property="y">
+            <int>5</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>3</int>
+           </void>
+           <void property="y">
+            <int>5</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>2</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>4</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>1</int>
+           </void>
+           <void property="y">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="y">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="y">
+            <int>3</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="y">
+            <int>2</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="y">
+            <int>2</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="y">
+            <int>2</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="y">
+            <int>2</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="y">
+            <int>2</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="y">
+            <int>2</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="y">
+            <int>2</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="y">
+            <int>2</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="y">
+            <int>2</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="y">
+            <int>2</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="y">
+            <int>2</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+      </void>
+      <void property="pattern">
+       <object idref="Pattern0"/>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="de.conway.pattern.Pattern" id="Pattern1">
+    <void property="name">
+     <string>test</string>
+    </void>
+    <void property="position">
+     <object class="de.conway.Vector2D"/>
+    </void>
+    <void property="state">
+     <object class="de.conway.pattern.State" id="State1">
+      <void property="cells">
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>20</int>
+           </void>
+           <void property="y">
+            <int>14</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>20</int>
+           </void>
+           <void property="y">
+            <int>14</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>21</int>
+           </void>
+           <void property="y">
+            <int>14</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>21</int>
+           </void>
+           <void property="y">
+            <int>14</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>21</int>
+           </void>
+           <void property="y">
+            <int>15</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>21</int>
+           </void>
+           <void property="y">
+            <int>15</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>22</int>
+           </void>
+           <void property="y">
+            <int>16</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>22</int>
+           </void>
+           <void property="y">
+            <int>16</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>22</int>
+           </void>
+           <void property="y">
+            <int>16</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>22</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>22</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>21</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>21</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>21</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>20</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>20</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>19</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>19</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>18</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>18</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>17</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>17</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>16</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>15</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>15</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>14</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>14</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>14</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>13</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>13</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>13</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>13</int>
+           </void>
+           <void property="y">
+            <int>16</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>12</int>
+           </void>
+           <void property="y">
+            <int>16</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>12</int>
+           </void>
+           <void property="y">
+            <int>16</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>12</int>
+           </void>
+           <void property="y">
+            <int>15</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>12</int>
+           </void>
+           <void property="y">
+            <int>15</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>12</int>
+           </void>
+           <void property="y">
+            <int>15</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>12</int>
+           </void>
+           <void property="y">
+            <int>15</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>12</int>
+           </void>
+           <void property="y">
+            <int>15</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>12</int>
+           </void>
+           <void property="y">
+            <int>15</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>12</int>
+           </void>
+           <void property="y">
+            <int>14</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>12</int>
+           </void>
+           <void property="y">
+            <int>14</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>13</int>
+           </void>
+           <void property="y">
+            <int>14</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>13</int>
+           </void>
+           <void property="y">
+            <int>14</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>13</int>
+           </void>
+           <void property="y">
+            <int>14</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>13</int>
+           </void>
+           <void property="y">
+            <int>14</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>14</int>
+           </void>
+           <void property="y">
+            <int>14</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>15</int>
+           </void>
+           <void property="y">
+            <int>14</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>16</int>
+           </void>
+           <void property="y">
+            <int>14</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>17</int>
+           </void>
+           <void property="y">
+            <int>14</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>17</int>
+           </void>
+           <void property="y">
+            <int>15</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>18</int>
+           </void>
+           <void property="y">
+            <int>15</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>19</int>
+           </void>
+           <void property="y">
+            <int>15</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>20</int>
+           </void>
+           <void property="y">
+            <int>16</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>22</int>
+           </void>
+           <void property="y">
+            <int>16</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>23</int>
+           </void>
+           <void property="y">
+            <int>16</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>24</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>25</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>26</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>26</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>28</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>28</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>29</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>30</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>32</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>32</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>33</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>34</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>36</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>37</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>37</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>39</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>40</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>40</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>41</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>42</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>43</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>43</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>44</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>44</int>
+           </void>
+           <void property="y">
+            <int>16</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>45</int>
+           </void>
+           <void property="y">
+            <int>16</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>45</int>
+           </void>
+           <void property="y">
+            <int>15</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>46</int>
+           </void>
+           <void property="y">
+            <int>15</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>46</int>
+           </void>
+           <void property="y">
+            <int>14</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>46</int>
+           </void>
+           <void property="y">
+            <int>13</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>47</int>
+           </void>
+           <void property="y">
+            <int>12</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>47</int>
+           </void>
+           <void property="y">
+            <int>12</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>47</int>
+           </void>
+           <void property="y">
+            <int>11</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>47</int>
+           </void>
+           <void property="y">
+            <int>10</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>48</int>
+           </void>
+           <void property="y">
+            <int>9</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>47</int>
+           </void>
+           <void property="y">
+            <int>8</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>47</int>
+           </void>
+           <void property="y">
+            <int>8</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>47</int>
+           </void>
+           <void property="y">
+            <int>7</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>47</int>
+           </void>
+           <void property="y">
+            <int>7</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>47</int>
+           </void>
+           <void property="y">
+            <int>6</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>47</int>
+           </void>
+           <void property="y">
+            <int>6</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>46</int>
+           </void>
+           <void property="y">
+            <int>6</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>46</int>
+           </void>
+           <void property="y">
+            <int>6</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>45</int>
+           </void>
+           <void property="y">
+            <int>6</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>44</int>
+           </void>
+           <void property="y">
+            <int>6</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>42</int>
+           </void>
+           <void property="y">
+            <int>7</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>40</int>
+           </void>
+           <void property="y">
+            <int>8</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>39</int>
+           </void>
+           <void property="y">
+            <int>10</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>38</int>
+           </void>
+           <void property="y">
+            <int>11</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>37</int>
+           </void>
+           <void property="y">
+            <int>12</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>37</int>
+           </void>
+           <void property="y">
+            <int>13</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>36</int>
+           </void>
+           <void property="y">
+            <int>14</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>35</int>
+           </void>
+           <void property="y">
+            <int>15</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>35</int>
+           </void>
+           <void property="y">
+            <int>15</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>34</int>
+           </void>
+           <void property="y">
+            <int>16</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>34</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>33</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>32</int>
+           </void>
+           <void property="y">
+            <int>19</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>31</int>
+           </void>
+           <void property="y">
+            <int>20</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>30</int>
+           </void>
+           <void property="y">
+            <int>20</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>28</int>
+           </void>
+           <void property="y">
+            <int>21</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>27</int>
+           </void>
+           <void property="y">
+            <int>22</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>25</int>
+           </void>
+           <void property="y">
+            <int>23</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>25</int>
+           </void>
+           <void property="y">
+            <int>24</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>24</int>
+           </void>
+           <void property="y">
+            <int>24</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>23</int>
+           </void>
+           <void property="y">
+            <int>24</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>22</int>
+           </void>
+           <void property="y">
+            <int>24</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>21</int>
+           </void>
+           <void property="y">
+            <int>24</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>21</int>
+           </void>
+           <void property="y">
+            <int>24</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>20</int>
+           </void>
+           <void property="y">
+            <int>24</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>19</int>
+           </void>
+           <void property="y">
+            <int>24</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>19</int>
+           </void>
+           <void property="y">
+            <int>24</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>18</int>
+           </void>
+           <void property="y">
+            <int>24</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>17</int>
+           </void>
+           <void property="y">
+            <int>24</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>17</int>
+           </void>
+           <void property="y">
+            <int>24</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>16</int>
+           </void>
+           <void property="y">
+            <int>23</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>16</int>
+           </void>
+           <void property="y">
+            <int>23</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>16</int>
+           </void>
+           <void property="y">
+            <int>22</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>15</int>
+           </void>
+           <void property="y">
+            <int>21</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>15</int>
+           </void>
+           <void property="y">
+            <int>21</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>15</int>
+           </void>
+           <void property="y">
+            <int>21</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>15</int>
+           </void>
+           <void property="y">
+            <int>20</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>15</int>
+           </void>
+           <void property="y">
+            <int>20</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>15</int>
+           </void>
+           <void property="y">
+            <int>19</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>15</int>
+           </void>
+           <void property="y">
+            <int>19</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>15</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>16</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>16</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>17</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>18</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>19</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>21</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>23</int>
+           </void>
+           <void property="y">
+            <int>19</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>25</int>
+           </void>
+           <void property="y">
+            <int>20</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>26</int>
+           </void>
+           <void property="y">
+            <int>20</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>27</int>
+           </void>
+           <void property="y">
+            <int>20</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>27</int>
+           </void>
+           <void property="y">
+            <int>20</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>28</int>
+           </void>
+           <void property="y">
+            <int>20</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>29</int>
+           </void>
+           <void property="y">
+            <int>20</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>29</int>
+           </void>
+           <void property="y">
+            <int>20</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>30</int>
+           </void>
+           <void property="y">
+            <int>20</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>30</int>
+           </void>
+           <void property="y">
+            <int>20</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>31</int>
+           </void>
+           <void property="y">
+            <int>20</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>31</int>
+           </void>
+           <void property="y">
+            <int>19</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>31</int>
+           </void>
+           <void property="y">
+            <int>19</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>31</int>
+           </void>
+           <void property="y">
+            <int>19</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>32</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>32</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>32</int>
+           </void>
+           <void property="y">
+            <int>18</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>32</int>
+           </void>
+           <void property="y">
+            <int>17</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>32</int>
+           </void>
+           <void property="y">
+            <int>16</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>32</int>
+           </void>
+           <void property="y">
+            <int>16</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>32</int>
+           </void>
+           <void property="y">
+            <int>15</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>31</int>
+           </void>
+           <void property="y">
+            <int>15</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>31</int>
+           </void>
+           <void property="y">
+            <int>14</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>31</int>
+           </void>
+           <void property="y">
+            <int>13</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>30</int>
+           </void>
+           <void property="y">
+            <int>13</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>29</int>
+           </void>
+           <void property="y">
+            <int>12</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>29</int>
+           </void>
+           <void property="y">
+            <int>11</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>28</int>
+           </void>
+           <void property="y">
+            <int>11</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>28</int>
+           </void>
+           <void property="y">
+            <int>10</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>27</int>
+           </void>
+           <void property="y">
+            <int>10</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>27</int>
+           </void>
+           <void property="y">
+            <int>9</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>26</int>
+           </void>
+           <void property="y">
+            <int>9</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>25</int>
+           </void>
+           <void property="y">
+            <int>9</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>25</int>
+           </void>
+           <void property="y">
+            <int>9</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>25</int>
+           </void>
+           <void property="y">
+            <int>8</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>24</int>
+           </void>
+           <void property="y">
+            <int>8</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>24</int>
+           </void>
+           <void property="y">
+            <int>8</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>24</int>
+           </void>
+           <void property="y">
+            <int>8</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>24</int>
+           </void>
+           <void property="y">
+            <int>8</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>24</int>
+           </void>
+           <void property="y">
+            <int>8</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>23</int>
+           </void>
+           <void property="y">
+            <int>8</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>23</int>
+           </void>
+           <void property="y">
+            <int>8</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>23</int>
+           </void>
+           <void property="y">
+            <int>8</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>23</int>
+           </void>
+           <void property="y">
+            <int>9</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>23</int>
+           </void>
+           <void property="y">
+            <int>9</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>23</int>
+           </void>
+           <void property="y">
+            <int>10</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>23</int>
+           </void>
+           <void property="y">
+            <int>10</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>23</int>
+           </void>
+           <void property="y">
+            <int>11</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>23</int>
+           </void>
+           <void property="y">
+            <int>11</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>24</int>
+           </void>
+           <void property="y">
+            <int>12</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>24</int>
+           </void>
+           <void property="y">
+            <int>12</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>24</int>
+           </void>
+           <void property="y">
+            <int>13</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>25</int>
+           </void>
+           <void property="y">
+            <int>13</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>26</int>
+           </void>
+           <void property="y">
+            <int>13</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>26</int>
+           </void>
+           <void property="y">
+            <int>13</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>27</int>
+           </void>
+           <void property="y">
+            <int>13</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>28</int>
+           </void>
+           <void property="y">
+            <int>13</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+       <void method="add">
+        <object class="de.conway.Cell">
+         <void property="position">
+          <object class="de.conway.Vector2D">
+           <void property="x">
+            <int>28</int>
+           </void>
+           <void property="y">
+            <int>13</int>
+           </void>
+          </object>
+         </void>
+        </object>
+       </void>
+      </void>
+      <void property="pattern">
+       <object idref="Pattern1"/>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
